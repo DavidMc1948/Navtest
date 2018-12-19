@@ -1,6 +1,6 @@
 - name: Home
-  link: /
+  link: /Navtest
 - name: About
-  link: /about.html
+  link: /Navtest/about.html
 - name: Testfile
-  link: /dir1/testfile.html
+  link: /Navtest/dir1/testfile.html
